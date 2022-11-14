@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "924947907594",
+    "project_id": "esh7nha-f2caa",
+    "storage_bucket": "esh7nha-f2caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924947907594:android:d3f5fcc7d2822b4e094bf3",
+        "android_client_info": {
+          "package_name": "com.esh7enha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924947907594-j2r08sq1qru66buv4clouon7592b815f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFn712lNWixOH6Ko0AVG61RMAd8FYuS3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924947907594-j2r08sq1qru66buv4clouon7592b815f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "924947907594-iefi9016g7b687662cbdoi5gr242b4th.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eshhenha.fudex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
